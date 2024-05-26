@@ -4,14 +4,15 @@
 **Nome:** **Corrida pela Comida**
 
 **Objetivo:**
-O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculos (a Comida) e deixar os mesmos chegar a personagem pacman ghost aumentar sua pontuação.
+O objetivo do jogo é controlar uma personagem, o Guerreiro, que deve saltar para evitar obstáculos (a Comida) e deixar os mesmos chegar a personagem coelho para aumentar a pontuação.
 
 **Componentes do Jogo:**
 
 
-**Coelho (Jogador):** O jogador controla um coelho que se mexe verticalmente ao pressionar a tecla "Espaço" para saltar. O coelho pode fazer um salto duplo para evitar obstáculos.
+**Guerreiro (Jogador):** O jogador controla um guerreiro que se mexe verticalmente ao pressionar a tecla "Espaço" para saltar. O mesmo pode fazer um salto duplo para evitar obstáculos.
 
-![coelho](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/18365078-cced-4656-8505-87261dd23cd9)
+![jodagor](https://github.com/AR-ESES/finalprojectoneclick-corrida-pela-comida/assets/160871420/1f454219-1df8-44d7-bd50-ddf126b9b040)
+
 
 **Obstáculos:** Vários tipos de comida (carne, peixe, maçã, cenoura) aparecem aleatoriamente e movem-se da direita para a esquerda. O jogador deve evitar colidir com esses obstáculos.
 
@@ -24,9 +25,10 @@ O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculo
 ![carne](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/45874701-a8b3-463a-a904-de40a3504a7b)
 
 
-**Pacman Ghost:** A personagem do Pacman Ghost é exibida no canto inferior esquerdo da tela, que se alimenta dos obstaculos quando os mesmos nao colidem com o jodagor.
+**Coelho:** A personagem Coelho é exibida no canto inferior esquerdo da tela, que se alimenta dos obstaculos quando os mesmos não colidem com o jodagor.
 
-![Ghost1](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/b883d32b-ec7c-4908-8ad0-9daf660a2d78)
+![coelho](https://github.com/AR-ESES/finalprojectoneclick-corrida-pela-comida/assets/160871420/fbdff221-98f2-45ed-b2f6-30234adb2438)
+
 
 **Pontuação:** A pontuação do jogador aumenta ao evitar obstáculos. A pontuação é exibida no canto superior direito, abaixo dos corações de vida.
 
@@ -39,9 +41,9 @@ O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculo
 
 **Como Jogar:**  
 
-Pressiona a tecla "Espaço" para fazer o coelho saltar.
+Pressiona a tecla "Espaço" para fazer o guerreiro saltar.
 
-O coelho pode fazer um salto duplo se a tecla "Espaço" for pressionada novamente enquanto está no ar.
+O guerreiro pode fazer um salto duplo se a tecla "Espaço" for pressionada novamente enquanto está no ar.
 
 Evita colidir com os obstáculos para manter as vidas.
 
