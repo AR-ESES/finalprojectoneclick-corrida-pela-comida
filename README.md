@@ -3,7 +3,12 @@
 
 **Nome:** **Corrida pela Comida**
 
+**Logo:**
+
+![Logo](https://github.com/AR-ESES/finalprojectoneclick-corrida-pela-comida/assets/160871420/7e02e88e-48ef-4aa1-9bd3-3714c0f92bb1)
+
 **Objetivo:**
+
 O objetivo do jogo é controlar uma personagem, o Guerreiro, que deve saltar para evitar obstáculos (a Comida) e deixar os mesmos chegar a personagem coelho para aumentar a pontuação.
 
 **Componentes do Jogo:**
@@ -52,6 +57,13 @@ A pontuação aumenta ao evitar obstáculos.
 Quando todas as vidas são perdidas, o jogo termina e uma mensagem "Perdeste" é exibida.
 
 Pressiona "Espaço" após o "Perdeste" para reiniciar o jogo.
+
+
+
+**Video de Apresentação:** 
+
+https://github.com/AR-ESES/finalprojectoneclick-corrida-pela-comida/assets/160871420/26e50ecf-55c3-4627-824d-4ff6797a72e7
+
 
 
 **Desenvolvimento:** O jogo foi desenvolvido usando HTML, CSS e JavaScript. 
